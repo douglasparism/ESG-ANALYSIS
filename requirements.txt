@@ -1,0 +1,18 @@
+
+# -- --------------------------------------------------------------------------------------------------- -- #
+# -- project: Lab.1                                                         -- #
+# -- script: requirements.txt : text file with the required libraries for the project                    -- #
+# -- author: Andrea Jimenez IF706970                                                                       -- #
+# -- license: GPL-3.0 License                                                                            -- #
+# -- repository: https://github.com/andreajimenezorozco/Lab-1_MyST_Spring2021                                                                     -- #
+# -- --------------------------------------------------------------------------------------------------- -- #
+
+pandas>=1.1.0
+numpy>=1.19.1
+jupyter>=1.0.0
+scipy>=1.6.0
+matplotlib>=3.3.4
+pandas-datareader>=0.9.0
+sklearn>=0.23.2
+jupyter>=1.0.0
+yfinance>=0.1.54
